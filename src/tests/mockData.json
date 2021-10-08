@@ -1,0 +1,158 @@
+{
+	"Listers": {
+		"slbusAnrnwTR1BkakBWzKGK0Lur1": {
+			"profile": {
+				"id": "123abb",
+				"type": "individual",
+				"gender": "male",
+				"age": 25,
+				"online": false,
+				"lastActive": "2017-06-21T19:46:18.646Z",
+				"name": "Alexander Jones",
+				"photo": ""
+			},
+			"listing": {
+				"listingId": "slbusAnrnwTR1BkakBWzKGK0Lur1",
+				"latitude": 40.730610,
+				"longitude": -73.935242,
+				"likes": 27,
+				"likesToReview": {
+					"p59kA7C15mTHTR2aVMNyEK3ZD5Y2": {
+						"firstName": "Alexander",
+						"likedOn": "2017-06-21T22:37:37.360Z"
+					}
+				},
+				"uniqueViewers": {},
+				"deposit": 0,
+				"squareFeet": 100,
+				"roomsAvailable": 1,
+				"totalRooms": 2,
+				"bathrooms": 1,
+				"amenities": [],
+				"photos": [],
+				"price": 1200,
+				"address": {
+					"street": "481 Seneca Ave",
+					"apartment": "3L",
+					"city": "Ridgewood",
+					"state": "NY",
+					"zipcode": 11385
+				},
+				"overview": "Im lying, there isnt actually a room open. Unless you're my girlfriend.",
+				"posted": "2017-06-21T22:23:10.005Z"
+			}
+		},
+		"abc123": {
+			"poster": {
+				"id": "123abc",
+				"name": "Alexander Jones",
+				"photo": ""
+			},
+			"listing": {
+				"listingId": "abc123",
+				"latitude": 40.730680,
+				"longitude": -73.935542,
+				"likes": 13,
+				"uniqueViewers": {},
+				"deposit": 0,
+				"squareFeet": 110,
+				"roomsAvailable": 1,
+				"totalRooms": 3,
+				"bathrooms": 2,
+				"amenities": [],
+				"photos": [],
+				"price": 1100,
+				"address": {
+					"street": "481 Seneca Ave",
+					"apartment": "2R",
+					"city": "Ridgewood",
+					"state": "NY",
+					"zipcode": 11385
+				},
+				"overview": "Sunny street side room with me and my two cats. Your own private bathroom",
+				"posted": "2017-05-30T23:50:06.394Z"
+			}
+		},
+		"abc124": {
+			"poster": {
+				"id": "123abd",
+				"name": "Brittany Seabra",
+				"photo": ""
+			},
+			"listing": {
+				"listingId": "abc124",
+				"latitude": 40.7581702,
+				"longitude": -73.9600922,
+				"likes": 7,
+				"uniqueViewers": {},
+				"deposit": 1400,
+				"squareFeet": 90,
+				"roomsAvailable": 1,
+				"totalRooms": 2,
+				"bathrooms": 1,
+				"amenities": [],
+				"photos": [],
+				"price": 1300,
+				"address": {
+					"street": "60 East 41 Street",
+					"apartment": "2A",
+					"city": "Manhattan",
+					"state": "NY",
+					"zipcode": 10001
+				},
+				"overview": "Cozy (read: extra small) 1 bedroom in the center of it all! Will be sharing the room with 2 others JSYK",
+				"posted": "2017-05-23T13:35:06.124Z"
+			}
+		},
+		"abc125": {
+			"poster": {
+				"id": "123abe",
+				"name": "Marc Dycus",
+				"photo": ""
+			},
+			"listing": {
+				"listingId": "abc125",
+				"latitude": 40.7543667,
+				"longitude": -73.9862705,
+				"likes": 24,
+				"uniqueViewers": {},
+				"deposit": 0,
+				"squareFeet": 140,
+				"roomsAvailable": 1,
+				"totalRooms": 2,
+				"bathrooms": 2,
+				"amenities": [],
+				"photos": [],
+				"price": 900,
+				"address": {
+					"street": "10 Hudson Yards",
+					"apartment": "1C",
+					"city": "Manhattan",
+					"state": "NY",
+					"zipcode": 10003
+				},
+				"overview": "Yes it's true, $900 for a bedroom in Hudson Yards. Totally true. Not a scam",
+				"posted": "2017-05-31T17:53:26.544Z"
+			}
+		}
+	},
+	"Seekers": {
+		"p59kA7C15mTHTR2aVMNyEK3ZD5Y2": {
+			"lastActive": "2017-06-19T23:15:03.112Z",
+			"online": false,
+			"profile": {
+				"profileType": "seeker",
+				"firstName": "Alexander",
+				"lastName": "Jones",
+				"age": 25,
+				"gender": "male",
+				"occupation": "Software Engineer",
+				"interests": ["guitar", "being cool"],
+				"summary": "Not really looking for a place, kinda just trying to build an app :)",
+				"tagline": "Confidence is key"
+			},
+			"likedPosts": {},
+			"rooms": []
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "name": "placesapp",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "expo": "17.0.0",
+    "firebase": "^4.0.0",
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
+    "react-native-gifted-chat": "^0.1.4",
+    "react-native-maps": "^0.15.3",
+    "react-native-radio-buttons": "^0.14.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.5",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
